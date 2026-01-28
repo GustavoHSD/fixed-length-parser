@@ -1,5 +1,5 @@
 pub mod error;
-pub mod default_parsers;
+pub mod parsers;
 
 use std::collections::HashMap;
 use crate::error::ParseError;
